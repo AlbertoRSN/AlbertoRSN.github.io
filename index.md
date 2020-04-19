@@ -9,9 +9,6 @@ Proyecto simple de una galeria de fotos web, resultado del trabajo realizado con
 **2. [Agenda UGR:](https://albertorsn.github.io/DIU)**
 Simulacion de una agenda de eventos para la universidad de Granada. Proyecto realizado en la asignatura Diseño de Interfaces de Usuario.
 
-**3. [The Crazy Wagon:](https://albertorsn.github.io/TheCrazyWagon)**
-Juego Arcade realizado con mi compañero [@Josalmer](https://github.com/Josalmer).
-
 
 Para mas detalles puedes echar un ojo a mis repositorios -> [GitHub](https://github.com/AlbertoRSN).
 
