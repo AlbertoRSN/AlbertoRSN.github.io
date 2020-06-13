@@ -9,7 +9,7 @@ Proyecto simple de una galeria de fotos web, resultado del trabajo realizado con
 **2. [Agenda UGR:](https://albertorsn.github.io/DIU)**
 Simulacion de una agenda de eventos para la universidad de Granada. Proyecto realizado en la asignatura Diseño de Interfaces de Usuario.
 
-**3. [Crazy Wagon Game:](https://albertorsn.github.io/SG1920)** Es un juego desarrollado usando la librería [ThreeJS](https://threejs.org/) para JavaScript para la asignatura Sistemas Gráficos.
+**3. [Crazy Wagon Game:](https://github.com/AlbertoRSN/CrazyWagonGame/tree/master/code)** Es un juego desarrollado usando la librería [ThreeJS](https://threejs.org/) para JavaScript para la asignatura Sistemas Gráficos.
 
 Se trata de un vagon que circula por un rail, se puede rotar hacia derecha o izquierda respecto del eje del tubo para evitar los obstáculos, mientras tantos se puede disparar a unas bolas que suben y bajan para ganar puntos adicionales
 
@@ -26,7 +26,7 @@ Hay 3 niveles de dificultad y 2 mapas distintos
 > • P: Pausar/Reanudar el juego
 
 
-Puedes ver el [código de la aplicación](https://github.com/Josalmer/Graphics-Systems-Final-Practice)
+Puedes ver el [código de la aplicación](https://github.com/AlbertoRSN/CrazyWagonGame/)
 
 
 Para mas detalles puedes echar un ojo a mis repositorios -> [GitHub](https://github.com/AlbertoRSN).
